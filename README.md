@@ -1,3 +1,5 @@
+![Hard work is beautiful!](/assets/Noushad.png "quote")
+
 # 👨‍💻 About Me:
 
 ### 🚀 Current Focus
