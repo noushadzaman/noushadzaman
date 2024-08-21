@@ -26,11 +26,12 @@
 
 | Contacts🚀                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Weapons 🌟                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [noushadozi333@gmail.com](mailto:noushadozi333@gmail.com)<br>🌐[Portfolio](https://noushad-zaman.web.app)<br><br><br>[![Linkedin](https://img.shields.io/badge/-linkedin-49e1dd?style=for-the-badge&labelColor=081528&logo=linkedin&logoColor=2aa889)](https://www.linkedin.com/in/noushadzaman)[![Instagram](https://img.shields.io/badge/-Instagram-49e1dd?style=for-the-badge&labelColor=081528&logo=instagram&logoColor=2aa889)](https://www.instagram.com/noushad_ozi)<br> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noushadzaman&theme=react)](https://github.com/noushadzaman/github-readme-stats) |
+| [noushadozi333@gmail.com](mailto:noushadozi333@gmail.com)<br>🌐[Portfolio](https://noushad-zaman.web.app)<br><br><br>[![Linkedin](https://img.shields.io/badge/-linkedin-49e1dd?style=for-the-badge&labelColor=081528&logo=linkedin&logoColor=2aa889)](https://www.linkedin.com/in/noushadzaman)[![Instagram](https://img.shields.io/badge/-Instagram-49e1dd?style=for-the-badge&labelColor=081528&logo=instagram&logoColor=2aa889)](https://www.instagram.com/noushad_ozi)<br> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=noushadzaman&theme=react&show_icons=true&locale=en&layout=compact)
 
-<br>
-<br>
+
 </div>
+<br>
+<br>
 
 # 💻 Tech Stack:
 
